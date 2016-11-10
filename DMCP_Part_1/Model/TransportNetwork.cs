@@ -25,8 +25,8 @@ namespace DMCP_Part_1
             _flowGraph = flowGraph;
             _incrementalGraph = incrementalGraph;
         }
- 
-
+        // Используй табы, а не пробелы, пожалуйста!!!
+        
     }
     class TransportNetwork
     {
