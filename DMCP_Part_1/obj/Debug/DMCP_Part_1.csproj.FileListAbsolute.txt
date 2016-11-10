@@ -46,3 +46,6 @@ C:\Users\st57916.TTI.001\Desktop\DMCP_Part_1\DMCP_Part_1\bin\Debug\QuickGraph.xm
 C:\Users\st57916.TTI.001\Desktop\DMCP_Part_1\DMCP_Part_1\bin\Debug\QuickGraph.Data.xml
 C:\Users\st57916.TTI.001\Desktop\DMCP_Part_1\DMCP_Part_1\bin\Debug\QuickGraph.Graphviz.xml
 C:\Users\st57916.TTI.001\Desktop\DMCP_Part_1\DMCP_Part_1\bin\Debug\QuickGraph.Serialization.xml
+H:\Users\Ostap Bender\Documents\IT\Visual Studio projects\Discrete math\Сoursework-1\CourseWork_I\DMCP_Part_1\bin\Debug\DMCP_Part_1.exe.config
+H:\Users\Ostap Bender\Documents\IT\Visual Studio projects\Discrete math\Сoursework-1\CourseWork_I\DMCP_Part_1\obj\Debug\DMCP_Part_1.exe
+H:\Users\Ostap Bender\Documents\IT\Visual Studio projects\Discrete math\Сoursework-1\CourseWork_I\DMCP_Part_1\obj\Debug\DMCP_Part_1.pdb
